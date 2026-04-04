@@ -668,3 +668,6 @@ nav {
     display: none;
 }
 
+.c-scrollbar {
+    z-index: 9999 !important;
+}
